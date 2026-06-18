@@ -14,7 +14,7 @@
 
 <img align="right" width="250" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-* 🇧🇬 From Bulgaria
+*  From Bulgaria
 * 💻 Interested in technology since 2024
 * 🗣️ Turkish • Bulgarian • English • Chinese
 * 🏐 Play volleyball for fun
