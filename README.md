@@ -51,12 +51,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeagaBG&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeagaBG&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeagaBG&layout=compact&theme=dark" width="37.2%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeagaBG&layout=compact&theme=dark" />
-</p>
 
 ---
 
