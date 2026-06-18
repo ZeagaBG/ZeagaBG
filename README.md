@@ -17,7 +17,7 @@
 * 🇧🇬 From Bulgaria
 * 💻 Interested in technology since 2024
 * 🗣️ Turkish • Bulgarian • English • Chinese
-* 🏐 Volleyball player
+* 🏐 Play volleyball for fun
 * 🖥️ Windows 11 user
 
 <br clear="right"/>
