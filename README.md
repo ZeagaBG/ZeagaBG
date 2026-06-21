@@ -35,7 +35,7 @@
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,cs,js,nodejs" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🛠 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,windows,github" />
 </p>
 
 ---
